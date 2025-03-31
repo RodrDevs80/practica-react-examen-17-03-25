@@ -118,3 +118,7 @@ export const movimientos = [
 ## Licencia
 
 Este proyecto está bajo la licencia MIT.
+
+## Vista del proyecto:
+
+https://practica-examen-17-03-25.netlify.app/
